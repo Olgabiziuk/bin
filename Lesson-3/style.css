@@ -116,8 +116,8 @@ hr.green-bg {
 
     background: url('./images/city.jpg') center center no-repeat;
    
--webkit-background-size: cover;
-background-size: cover
+    -webkit-background-size: cover;
+    background-size: cover
 }
 h1 {
     font-family: Raleway;
