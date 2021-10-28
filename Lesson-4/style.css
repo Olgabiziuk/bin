@@ -205,8 +205,8 @@ h2 {
         color: #fff;
     }
     .price-list li:nth-child(2) {
-    font-size: 36px;
-    padding: 10px 0;
+        font-size: 36px;
+        padding: 10px 0;
     }
     .price-list li span {
         display: block;
